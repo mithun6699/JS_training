@@ -11,3 +11,5 @@ console.log("mahesh")
 // ctrl+ slash for single comment
 /* multiple comments */
 
+// learn about let,const,var
+// learn git
